@@ -8,7 +8,13 @@ I'm Gopika, a Computer Science undergraduate at College of Engineering, Trivandr
 - 📫 How to reach me: gsgopikasg@gmail.com
 
 ### 📊 Stats
-![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika4112&theme=city_lights&show_icons=true)
+<div class="badges-githubstats">
+  <p align="center">
+    ![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika4112&theme=city_lights&show_icons=true)
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika4112&theme=tokyonight&hide_border=true" alt="Gopika's Streak" height="165">
+  </p>
+</div>
+
 
 <h4>Top langs :tongue:</h4>
 
