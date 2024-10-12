@@ -10,6 +10,6 @@ I'm Gopika, a Computer Science undergraduate at College of Engineering, Trivandr
 ### 📊 Stats
 ![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika4112&theme=city_lights&show_icons=true)
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4>Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika4112&langs_count=10&theme=tokyonight&layout=compact" alt="Gopika :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika4112&langs_count=10&theme=tokyonight&layout=compact" alt="Gopika :: Top Langs" /></p>
