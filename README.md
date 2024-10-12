@@ -7,3 +7,5 @@ I'm Gopika, a Computer Science undergraduate at College of Engineering, Trivandr
 - 🤔 I’m looking for help with advancing my web development skills.
 - 📫 How to reach me: gsgopikasg@gmail.com
 
+### 📊 Stats
+![Gopika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gopika4112&theme=dark&show_icons=true)
