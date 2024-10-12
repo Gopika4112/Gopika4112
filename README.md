@@ -14,6 +14,4 @@ I'm Gopika, a Computer Science undergraduate at College of Engineering, Trivandr
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopika4112&langs_count=10&theme=tokyonight&layout=compact" alt="Gopika :: Top Langs" /></p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Gopika4112}/count.svg" alt="Gopika :: Visitor's Count" /></p>
